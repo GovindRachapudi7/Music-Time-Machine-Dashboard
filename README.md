@@ -28,7 +28,7 @@ The core dataset was compiled by Nidula Elgiriyewithana on kaggle.com and contai
 
 ## Usage
 
-The app is running at [insert deployment link].
+The app is running at [https://hfiirs-govind0na0-rachapudi.shinyapps.io/GovindApp/].
 
 To use, simply:   
 
